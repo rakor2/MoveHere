@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"bg3ModHelper.rootModPath": "i:\\SteamLibrary\\steamapps\\common\\Baldurs Gate 3\\Data\\Mods\\MoveHere_fc59ee9f-d9ab-e187-a454-ee19d46c28c0",
+		"bg3ModHelper.packingPriority": 0
+	}
+}

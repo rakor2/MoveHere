@@ -1,0 +1,34 @@
+{
+    "SchemaVersion": 1,
+    "ModName": "Move Here",
+    "Tabs": [
+        {
+            "TabId": "MoveHere-main",
+            "TabName": "Move Here",
+            "Sections": [
+                {
+                    "SectionId": "general_settings",
+                    "SectionName": "",
+                    "Settings": [
+                        {
+                            "Id": "mh_toggle_window",
+                            "Name": "",
+                            "Type": "keybinding_v2",
+                            "Default": {
+                                "Keyboard": {
+                                    "Key": "",
+                                    "ModifierKeys": []
+                                }
+                            },
+                            "Description": "looks boring without a description",
+                            "Handles": {
+                                "NameHandle": "",
+                                "DescriptionHandle": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
